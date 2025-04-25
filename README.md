@@ -86,7 +86,7 @@ CryptoVault/
 │   ├── des.py         # DES encryption logic
 │   └── rsa.py         # RSA encryption logic
 ├── gui.py             # Tkinter GUI interface
-├── requirements.txt   # List of required libraries
+├── main.py            # main script
 └── README.md          # Project description
 ```
 
